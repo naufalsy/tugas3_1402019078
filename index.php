@@ -16,7 +16,7 @@
     <nav class="navbar navbar-expand-lg navbar-dark bg-secondary fixed-top"  id="navbar-Beranda">
         <div class="container">
         <nav>
-            <a href="kalkulator.html"><img id="logo" src="./img/lambang web.png" alt="web"></a>
+            <a href="index.php"><img id="logo" src="./img/lambang web.png" alt="web"></a>
         </nav>
         </div>
       </nav>
